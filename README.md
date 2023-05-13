@@ -6,7 +6,7 @@
 
 The FIFA World Cup is a professional football tournament held between national football teams, organised by FIFA. The 2022 FWC took place in Qatar from 20th November to 18th December 2022. Argentina were crowned the champions after winning the final against the defending champions France 4–2 on penalties following a 3–3 draw after extra time.
 
-This is an image dataset of 45 of the most elite players that participated in the 2022 FWC. I tailored it to suit an ML project I am working on. The player selection is borne out of my personal opinions and biases, and does not necessarily reflect consensus nor reality. (Yes, Eden Hazard, one of the greatest to grace the Premier League is in the dataset. No, Darwin Nunez isn't included; in case you missed the title, this is a dataset of the most elite players. :sunglasses:)
+This is an image dataset of 45 of the most elite players that participated in the 2022 FWC. I tailored it to suit an ML project I am working on. The player selection is borne out of my personal opinions and biases, and does not necessarily reflect (current) consensus nor reality. (Yes, Eden Hazard, one of the greatest to grace the Premier League is in the dataset. No, Darwin Nunez isn't included; in case you missed the title, this is a dataset of the most elite players. :sunglasses:)
 
 Unfortunately, since the parent dataset by nature only comprises teams that qualified for the world cup, there are quite a few elite players that have been left out (sorry Salah, Zinchenko, Ødegaard, Haaland).
 
